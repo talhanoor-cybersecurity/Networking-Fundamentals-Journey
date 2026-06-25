@@ -36,6 +36,10 @@ A router connects different networks and forwards data between them. It helps de
 - Learned the role of a router in communication.
 - Built the first foundation for cybersecurity learning.
 
+## 🖼️ Networking Diagram
+
+![Networking Diagram](networking-basics.png.png)
+
 ## 🛡️ Cybersecurity Connection
 
 Networking knowledge is the first step toward becoming a Web Application Penetration Tester and Ethical Hacker.
@@ -46,9 +50,6 @@ Understanding how networks communicate helps in learning security concepts.
 
 Continuing my journey by learning more networking concepts and practicing daily.
 
-## 🖼️ Networking Diagram
-
-![Networking Diagram](networking-basics.png)
 ---
 
 ⭐ This repository is part of my Networking and Cybersecurity learning journey.
