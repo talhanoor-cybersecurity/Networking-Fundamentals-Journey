@@ -38,7 +38,7 @@ A router connects different networks and forwards data between them. It helps de
 
 ## 🖼️ Networking Diagram
 
-![Networking Diagram](networking-basics.png.png)
+![Networking Diagram](networking-basics.png.)
 
 ## 🛡️ Cybersecurity Connection
 
