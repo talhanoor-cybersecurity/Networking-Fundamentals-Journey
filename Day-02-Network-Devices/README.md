@@ -38,7 +38,7 @@ An access point provides wireless connectivity and allows devices to connect to 
 
 ## 🖼️ Network Devices Diagram
 
-![Network Devices Diagram](networking-devices.png)
+![Network Devices Diagram](networking-devices.png.png)
 
 > Upload your networking diagram image and make sure its filename is `networking-devices.png`.
 
