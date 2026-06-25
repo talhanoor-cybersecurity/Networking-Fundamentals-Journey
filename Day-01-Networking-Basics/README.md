@@ -38,7 +38,6 @@ A router connects different networks and forwards data between them. It helps de
 
 ## 🖼️ Networking Diagram
 ![Networking Diagram](networking-basics.png.png)
-
 ## 🛡️ Cybersecurity Connection
 
 Networking knowledge is the first step toward becoming a Web Application Penetration Tester and Ethical Hacker.
