@@ -53,3 +53,7 @@ Continuing my journey by learning more networking concepts and practicing daily.
 ---
 
 ⭐ This repository is part of my Networking and Cybersecurity learning journey.
+
+## 🌐 Connect With Me
+
+🔗 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/talhanoor-cybersecurity)
