@@ -56,4 +56,4 @@ I am currently learning Networking, Cybersecurity, and Ethical Hacking. Every da
 
 ## 🌐 Connect With Me
 
-🔗 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/talhanoor-cybersecurity)
+🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/talhanoor-cybersecurity/)
