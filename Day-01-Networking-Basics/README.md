@@ -56,4 +56,4 @@ Continuing my journey by learning more networking concepts and practicing daily.
 
 ## 🌐 Connect With Me
 
-🔗 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/talhanoor-cybersecurity)
+🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/talhanoor-cybersecurity/)
