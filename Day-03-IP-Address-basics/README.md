@@ -169,4 +169,4 @@ More networking notes and cybersecurity topics will be added soon.
 ## ⭐ If you found this repository helpful, consider giving it a Star!
 
 ## 🌐 Connect With Me
-🔗 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/talhanoor-cybersecurity)
+🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/talhanoor-cybersecurity/)
