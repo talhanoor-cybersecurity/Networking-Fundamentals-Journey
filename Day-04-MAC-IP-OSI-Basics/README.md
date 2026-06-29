@@ -135,6 +135,8 @@ My goal is to master networking concepts one step at a time before moving into a
 
 ## 📌 Connect With Me
 
+🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/talhanoor-cybersecurity/)
+
 I am documenting my learning journey publicly as I work toward becoming a Cybersecurity and Web Application Penetration Testing Professional.
 
 Every day, I aim to learn something new and strengthen my fundamentals.
