@@ -150,7 +150,6 @@ Although both models explain how network communication works, they serve differe
   - System Administration
 
 ## 🖼️TCP-IP-Model-Diagram
-
 ![tcp-ip-model-diagram](tcp-ip-model-diagram.png.png)
 
 ---
